@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
 title: Jared Barnes
 description: A weekly journal for my coding journey and a repo for notes.
-show_downloads: "false"
+show_downloads: "true"
