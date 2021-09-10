@@ -1,4 +1,4 @@
-theme: pages-themes-slate
+theme: jekyll-theme-slate
 title: Code 201 Reading Notes for Jared Barnes
 description: Personal page for managing reading notes for Code Fellows 201.
 show_downloads: false
