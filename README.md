@@ -4,7 +4,7 @@
     * Chapter 8: "Extra Markup" (p.176-199)
     * Chapter 17: "HTML5 Layout" (pp.428-451)
     * Chapter 18: Process & Design (pp.452-475)
-    * :notebook_with_decorative_cover: [Topic Summary Class-01.md](class-01.md)
+    * 📔 [Topic Summary Class-01.md](class-01.md)
 2. Reading Assignment
 3. Reading Assignment
 4. Reading Assignment
