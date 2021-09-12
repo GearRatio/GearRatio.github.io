@@ -3,20 +3,19 @@
 ## Structure
 Accessability is important when developing a site. HTML, CSS and JavaScript creat layers to a site. Tags provide the structure. Attributes provide definition and can increase function. You can have **several classes** just seperate them with a sapce
 
-    ```
-    <html>
-        <head>
+```
+<html>
+    <head>
         <title lang="en-us">Example title with attribute.</title>
-        </head>
-        <body>
-        <!--Start of Main Text-->
-            <h1 class="heading underlined">First heading within body</h1>
-            <p>Information will be displayed within body tags</p>
-        <!--End of Main Text-->
-        </body>
-    </html>
-
-    ```    
+    </head>
+    <body>
+    <!--Start of Main Text-->
+        <h1 class="heading underlined">First heading within body</h1>
+        <p>Information will be displayed within body tags</p>
+    <!--End of Main Text-->
+    </body>
+</html>
+```    
 ## Extra Markup
 HTML 5 is the current markup version. It is important to know about older versions and to be aware of browser compability issues. "DOCTYPE" indicates the version of HTML.
 
