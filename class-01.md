@@ -16,7 +16,7 @@ Accessability is important when developing a site. HTML, CSS and JavaScript crea
         </body>
     </html>
 
-    ```
+    ```    
 ## Extra Markup
 HTML 5 is the current markup version. It is important to know about older versions and to be aware of browser compability issues. "DOCTYPE" indicates the version of HTML.
 
@@ -39,6 +39,7 @@ Reference:[https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_H
 
 ## Process & Design
 It is important to define, who, why, what, and how, before building a site. A conceptual approach such as wireframing or using simple cards to layout the layers can help with creating the blocks of the site. Take into account visual hierachy and use size and color to establish a flow for the site. Group similar items in order to simplify.
+
 ## JavaScript Summary
 JavaScript helps increase user interaction and provides a set of specific instructions to a computer in order to achieve its task.Start desiging a script by taking small tasks and breaking each down. Work through each step of the task until completed.
 
