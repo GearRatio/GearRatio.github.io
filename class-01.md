@@ -25,16 +25,16 @@ Inline elements take up the full line and block elements follow one another on s
 
 Div and Span allow you to group block and inline elements together.
 
-Reference: [https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#block-level_vs._inline]
+Reference: [Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#block-level_vs._inline)
 
-HTML&CSS John Duckett Reference for Escape Characters: [http://www.htmlandcssbook.com/extras/html-escape-codes/]
+HTML&CSS Escape Characters: [John Duckett Reference](http://www.htmlandcssbook.com/extras/html-escape-codes/)
 
 ## HTML Layout
 Creating a basic site structure is important and certain elements should be grouped together. Use semantic markup when laying out the site.
 
 Non-semantic tags can be used when you are not able to properly use a semantic tag. In this case use of div and span are acceptable.
 
-Reference: [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure]
+Reference: [Mozilla Layout Reference](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ## Process & Design
 It is important to define, who, why, what, and how, before building a site. A conceptual approach such as wireframing or using simple cards to layout the layers can help with creating the blocks of the site. Take into account visual hierachy and use size and color to establish a flow for the site. Group similar items in order to simplify.
