@@ -7,13 +7,19 @@
     * JS Chapter 1: “The ABC of Programming” (pp.11-52)
     * 📔 [Topic Summary Class-01.md](class-01.md)
 2. Reading Assignment
+Reading Assignment, Duckett HTML & JS Books, **September 14, 2021**
+    * Chapter 2: "Text" (pp.40-61)
+    * Chapter 10: "Introducing CSS" (p.226-245)
+    * Chapter 2: "Basic JavaScript Instructions" (pp.226-245)
+    * Chapter 4: "Decisions and Loops" (pp.145-162) _(up to switch statements)_
+    * * 📔 [Topic Summary Class-02.md](class-02.md)
 3. Reading Assignment
 4. Reading Assignment
 5. Reading Assignment
 6. Reading Assignment
 7. Reading Assignment
 8. Reading Assignment
-9. Reading Assignment
+9.  Reading Assignment
 10. Reading Assignment
 11. Reading Assignment
 12. Reading Assignment
