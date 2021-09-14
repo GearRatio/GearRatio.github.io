@@ -12,7 +12,7 @@ Reading Assignment, Duckett HTML & JS Books, **September 14, 2021**
     * Chapter 10: "Introducing CSS" (p.226-245)
     * Chapter 2: "Basic JavaScript Instructions" (pp.226-245)
     * Chapter 4: "Decisions and Loops" (pp.145-162) _(up to switch statements)_
-    * * 📔 [Topic Summary Class-02.md](class-02.md)
+    * 📔 [Topic Summary Class-02.md](class-02.md)
 3. Reading Assignment
 4. Reading Assignment
 5. Reading Assignment
