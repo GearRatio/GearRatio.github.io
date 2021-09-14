@@ -87,7 +87,7 @@ When evaluating behavior you can create flow charts that breakdown the steps. An
 
 The use of comparison operators is essential to allowing the evaluation to occur. These operators referenced above help to determine the flow of information as the computer is evaluating it. Operands within the expression do not need to be a single value, ```((x + y) > (a + b)).```
 
-Logical operators && (and), ||(or), !(not) allow you to compare the results of more than one comparison. For example, ```((4 > 3) && (5<6))``` evaluates to **true**.
+Logical operators allow you to compare the results of more than one comparison. For example, ```((4 > 3) && (5<6))``` evaluates to **true**.
 
 **If** statements check the conditions and determines if it is *true*. If the statement evaluates to true then the rest of the code block runs.
 
