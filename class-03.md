@@ -36,6 +36,6 @@
 32. ___causes the termination of the loop.
 33. ___tells the interperter to stop the current iteration and then check the condition again. (If true, the code runs again.)
 34. The key difference between a while loop and a do while is that the ___come before the condition.
-35. If the condition of a while loop never returns____, you get an infinate loop.
+35. If the condition of a while loop never returns____, you get an infinite loop.
 
 [Back to TOC](GearRatio.github.io)
