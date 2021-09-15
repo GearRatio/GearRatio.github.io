@@ -104,4 +104,4 @@ if(money > 10) {
 
 In the above example, in order for the entire block to execute the fist expression must evaluate too false. The result would return *"You should save your pennies!"*.
 
-[Back to TOC](/Users/jboss/GearRatio.github.io/README.md)
+[Back to TOC](GearRatio.github.io)

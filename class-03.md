@@ -4,7 +4,7 @@
 
 1. Orderd list has each item _____. (ol)
 2. Unorderd list begins with a _____.  (ul)
-3. Definition lists are made up with a set of_____ along with___. (d1)
+3. Definition lists are made up with a set of_____ along with ___. (d1)
 4. The most popular ways to specify the size of a box is with pixels, percentages, and___.
 5. ____specifies the smallest width a box can be displayed.
 6. ___specifies the largest width a box can be displayed.
@@ -38,4 +38,4 @@
 34. The key difference between a while loop and a do while is that the ___come before the condition.
 35. If the condition of a while loop never returns____, you get an infinate loop.
 
-[Back to TOC](/Users/jboss/GearRatio.github.io/README.md)
+[Back to TOC](GearRatio.github.io)

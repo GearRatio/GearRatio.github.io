@@ -54,4 +54,4 @@ The above can represent the Document Object Model, DOM, and is the foundation of
 
 JavaScript allows each portion of the DOM to be accessed and manipulated if needed. JavaScript should be kept in a separate file an linked using script.
     
-[Back to TOC](/Users/jboss/GearRatio.github.io/README.md)
+[Back to TOC](GearRatio.github.io)
