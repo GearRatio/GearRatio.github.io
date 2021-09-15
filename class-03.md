@@ -30,7 +30,7 @@
 26. Type coercion is when JavaScript tries to____ data behind the scenes to complete the operation.
 27. JavaScript is said to use___typing because the data type for a value can change.
 28. Logical operators_____ as soon as they have a result. But the result may not be true or false.
-29. It is a good idea to put____first in OR operations and___first in AND operations.
+29. It is a good idea to put____ first in OR operations and ____first in AND operations.
 30. ____checks a condition and runs until it returns false.
 31. There are 3 types of loops. FOR, WHILE, and____.
 32. ___causes the termination of the loop.
