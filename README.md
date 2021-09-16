@@ -22,6 +22,12 @@ Duckett HTML & JS Books, **September 15, 2021**
     * Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
     * 📔 [Topic Summary Class-02.md](class-03.md)
 4. Reading Assignment
+Duckett HTML & JS Books, **September 16, 2021**
+    * Chapter 4: Ch.4 “Links” (pp.74-93)
+    * Chapter 15: “Layout” (pp.358-404)
+    * Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
+    * Article: “6 Reasons for Pair Programming”, Code Fellows Blog
+    * 📔 [Topic Summary Class-02.md](class-04.md)
 5. Reading Assignment
 6. Reading Assignment
 7. Reading Assignment
