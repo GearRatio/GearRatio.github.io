@@ -2,7 +2,7 @@
 
 -TL;DR
 
-![](<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/51msWHqr8drws" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gettin-jiggy-51msWHqr8drws">via GIPHY</a></p>)
+![Mr. Bean](https://media.giphy.com/media/Wv2BOzWTfqH8A/giphy.gif?cid=ecf05e47lx3c8cwdp3qbxzt8tfs3z97q2l5x5cm1tjrrrwjh&rid=giphy.gif&ct=g)
 
 # Images
 Images provide a message to websites. Below are some resources to help find that extra bit of pizzazz.
