@@ -1,6 +1,5 @@
 # Duckett HTML & CSS Chapters 5, 11, 12
 
--TL;DR
 
 ![Mr. Bean](https://media.giphy.com/media/Wv2BOzWTfqH8A/giphy.gif?cid=ecf05e47lx3c8cwdp3qbxzt8tfs3z97q2l5x5cm1tjrrrwjh&rid=giphy.gif&ct=g)
 
