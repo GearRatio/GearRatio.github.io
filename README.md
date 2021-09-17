@@ -34,7 +34,7 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 11: “Color” (pp.246-263)
     * Chapter 12: “Text” (pp.264-299)
     * [JPEG vs PNG](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
-    * 📔 [Topic Summary Class-04.md](class-05.md)
+    * 📔 [Topic Summary Class-05.md](class-05.md)
 2. Reading Assignment
 3. Reading Assignment
 4. Reading Assignment
