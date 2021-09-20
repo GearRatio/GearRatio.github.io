@@ -28,22 +28,26 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
     * Article: ["6 Reasons for Pair Programming"](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
     * 📔 [Topic Summary Class-04.md](class-04.md)
-1. Reading Assignment
+5. Reading Assignment
    Duckett HTML & JS Books, **September 17, 2021**
     * Chapter 5: “Images” (pp.94-125)
     * Chapter 11: “Color” (pp.246-263)
     * Chapter 12: “Text” (pp.264-299)
     * [JPEG vs PNG](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
     * 📔 [Topic Summary Class-05.md](class-05.md)
-2. Reading Assignment
-3. Reading Assignment
-4. Reading Assignment
-5.  Reading Assignment
-6.  Reading Assignment
-7.  Reading Assignment
-8.  Reading Assignment
+6. Reading Assignment
+   Duckett JS Book, **September 20, 2021**
+    * Chapter 3: “Object Literals” (pp.100-105)
+    * Chapter 5: “Document Object Model” (pp.183-242)
+    * 📔 [Topic Summary Class-06.md](class-06.md)
+7. Reading Assignment
+8. Reading Assignment
 9.  Reading Assignment
-10. Reading Assignment
-11. Reading Assignment
+10.  Reading Assignment
+11.  Reading Assignment
+12.  Reading Assignment
+13.  Reading Assignment
+14. Reading Assignment
+15. Reading Assignment
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
