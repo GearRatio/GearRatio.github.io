@@ -41,6 +41,10 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 5: “Document Object Model” (pp.183-242)
     * 📔 [Topic Summary Class-06.md](class-06.md)
 7. Reading Assignment
+   Duckett HTML & JS book, **September 21, 2021**
+    * Chapter 6: “Tables” (pp.126-145)
+    * Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+    * 📔 [Topic Summary Class-07.md](class-07.md)
 8. Reading Assignment
 9.  Reading Assignment
 10.  Reading Assignment
