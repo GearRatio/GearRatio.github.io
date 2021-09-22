@@ -24,7 +24,7 @@ Duckett HTML & JS Books, **September 15, 2021**
 4. Reading Assignment
 Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 4: “Links” (pp.74-93)
-    * Chapter 15: “Layout” (pp.358-404)a
+    * Chapter 15: “Layout” (pp.358-404)
     * Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
     * Article: ["6 Reasons for Pair Programming"](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
     * 📔 [Topic Summary Class-04.md](class-04.md)
@@ -45,7 +45,9 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 6: “Tables” (pp.126-145)
     * Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
     * 📔 [Topic Summary Class-07.md](class-07.md)
-8. Reading Assignment
+8. Reading Assignment Duckett HTML and CSS
+   * Chapter 15: *Review* “Layout” (pp.358-404) **September 22, 2021**
+   * 📔 [Quiz Class-08.md](class-08.md)
 9.  Reading Assignment
 10.  Reading Assignment
 11.  Reading Assignment
