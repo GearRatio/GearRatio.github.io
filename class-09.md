@@ -37,3 +37,4 @@ It is important to understand flow and be aware of `Event Bubbling`. In short, b
 
 Events help indicate when something has occurred within the browser or window. By binding events to listeners you are able to stat which event occurred, what should happen next, and on which element it should happen. When events happen it can trigger a JavaScript function. This increases user interaction and enhances the overall user experience. The most commonly used are DOM events but others can be specified.
 
+[Back to TOC](README.md)
