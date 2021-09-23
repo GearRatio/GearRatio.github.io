@@ -49,6 +49,11 @@ Duckett HTML & JS Books, **September 16, 2021**
    * Chapter 15: *Review* “Layout” (pp.358-404) **September 22, 2021**
    * 📔 [Quiz Class-08.md](class-08.md)
 9.  Reading Assignment
+    Duckett HTML & JS book, **September 23, 2021**
+    * Chapter 7: “Forms” (pp.144-175)
+    * Chapter 3: “Lists, Table & Forms” (pp.330-357)
+    * Chapter 6: "Events" (pp. 243-292)
+    * 📔 [Topic Summary Class-09.md](class-09.md)
 10.  Reading Assignment
 11.  Reading Assignment
 12.  Reading Assignment
