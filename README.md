@@ -55,6 +55,9 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 6: "Events" (pp. 243-292)
     * 📔 [Topic Summary Class-09.md](class-09.md)
 10.  Reading Assignment
+     Duckett JS book, **September 24, 2021**
+    * Chapter 10: “Debugging” (pp.144-175)
+    * 📔 [Topic Summary Class-10.md](class-10.md)
 11.  Reading Assignment
 12.  Reading Assignment
 13.  Reading Assignment
