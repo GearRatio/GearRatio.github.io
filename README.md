@@ -59,15 +59,15 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 10: “Debugging” (pp.144-175)
     * 📔 [Topic Summary Class-10.md](class-10.md)
 11.  Reading Assignment
-12.  Duckett HTML & CSS, **September 27, 2021**
+     Duckett HTML & CSS, **September 27, 2021**
     * Chapter 16: “Images” (pp.406-427)
     * Chapter 19: "Practical Information" (pp.476-492)
     * [MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
     * Chapter 9: (pp.201-206)
     * 📔 [Topic Summary Class-11.md](class-11.md)
+12.  Reading Assignment
 13.  Reading Assignment
-14.  Reading Assignment
+14. Reading Assignment
 15. Reading Assignment
-16. Reading Assignment
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
