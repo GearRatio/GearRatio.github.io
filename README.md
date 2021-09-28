@@ -66,11 +66,12 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 9: (pp.201-206)
     * 📔 [Topic Summary Class-11.md](class-11.md)
 12.  Reading Assignment
+     **September 28, 2021**
     * [Chart.js docs](https://www.chartjs.org/docs/latest/)
     * [Basic Usage of Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
     *  📔 [Topic Summary Class-12.md](class-12.md)
-13.  Reading Assignment
-14. Reading Assignment
+14.  Reading Assignment
 15. Reading Assignment
+16. Reading Assignment
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)

@@ -9,6 +9,8 @@ There are a few ways you can being using Chart.js. I believe the most common was
 2. When no styling is provided the chart will be fully transparent.
 
 3. It is a good idea to provide fallback content when for older browsers with limited support. Only older browsers will recognize the fallback content. [Example](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+
+
     ```html
   <canvas id="clock" width="150" height="150">
     <img src="images/clock.png" width="150" height="150" alt=""/>
