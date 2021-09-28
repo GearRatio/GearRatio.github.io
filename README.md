@@ -62,13 +62,13 @@ Duckett HTML & JS Books, **September 16, 2021**
      Duckett HTML & CSS, **September 27, 2021**
     * Chapter 16: “Images” (pp.406-427)
     * Chapter 19: "Practical Information" (pp.476-492)
-    * [MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
-    * Chapter 9: (pp.201-206)
+    * "MDN Docs" [MDN Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+    * Chapter 9: "Bookmark/review" (pp.201-206)
     * 📔 [Topic Summary Class-11.md](class-11.md)
 12.  Reading Assignment
      **September 28, 2021**
-    * [Chart.js docs](https://www.chartjs.org/docs/latest/)
-    * [Basic Usage of Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+    * "Chart js doc source" [Chart.js docs](https://www.chartjs.org/docs/latest/)
+    * "MDN tutorial" [Basic Usage of Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
     *  📔 [Topic Summary Class-12.md](class-12.md)
 14.  Reading Assignment
 15. Reading Assignment
