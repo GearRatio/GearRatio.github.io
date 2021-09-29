@@ -66,15 +66,16 @@ Duckett HTML & JS Books, **September 16, 2021**
     * Chapter 9: "Bookmark/review" (pp.201-206)
     * 📔 [Topic Summary Class-11.md](class-11.md)
 12.  Reading Assignment
-     **September 28, 2021**
-    * "Chart js doc source"[Chart.js docs](https://www.chartjs.org/docs/latest/)
-    * "MDN tutorial"[Basic Usage of Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+     Code Fellows Provided Articles, **September 28, 2021**
+    * "Chart js doc source", [Chart.js docs](https://www.chartjs.org/docs/latest/)
+    * "MDN tutorial", [Basic Usage of Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
     * 📔 [Topic Summary Class-12.md](class-12.md)
 13.  Reading Assignment
-    **September 29, 2021**
-    * "The Past, Present, and Future of Local Storage for Web Applications"[diveintohtml](http://diveinto.html5doctor.com/storage.html) 
+     Code Fellows Provided Articles, **September 29, 2021**
+    * "The Past, Present, and Future of Local Storage for Web Applications", [diveintohtml](http://diveinto.html5doctor.com/storage.html) 
     * 📔 [Topic Summary Class-13.md](class-13.md)
 14. Reading Assignment
 15. Reading Assignment
+    
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
