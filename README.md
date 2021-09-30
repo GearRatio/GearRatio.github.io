@@ -75,6 +75,14 @@ Duckett HTML & JS Books, **September 16, 2021**
     * "The Past, Present, and Future of Local Storage for Web Applications", [diveintohtml](http://diveinto.html5doctor.com/storage.html) 
     * 📔 [Topic Summary Class-13.md](class-13.md)
 14. Reading Assignment
+     Code Fellows Provided Articles, **September 30, 2021**
+    * CSS Transforms
+    * CSS Transitions & Animations
+    * 8 Simple CSS3 Transitions that will wow your users
+      * [Learn To Code](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+      * [Transitions](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+      * [Web Designer Depot](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
+    * 📔 [Topic Summary Class-14.md](class-14.md)
 15. Reading Assignment
     
 
